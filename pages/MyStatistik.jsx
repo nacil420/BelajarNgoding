@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import NavbarUser from '../components/NavbarUser'
 import Footer from '../components/Footer'
 import FooterCP from '../components/FooterCP'
