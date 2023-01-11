@@ -2,8 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Setting1 from '../components/Setting1'
 import NavbarUser from '../components/NavbarUser'
-import Footer from '../components/Footer'
-import FooterCP from '../components/FooterCP'
+
 
 
 export default function Settings() {
@@ -16,8 +15,6 @@ export default function Settings() {
       </Head>
       <NavbarUser/>
         <Setting1/>
-        <Footer/>
-        <FooterCP/>
     </div>
   )
 }
